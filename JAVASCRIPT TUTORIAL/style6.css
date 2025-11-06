@@ -1,0 +1,36 @@
+h1{
+   color: blue;
+   background-color: burlywood;
+}
+button{
+     background-color: blueviolet;
+}
+p{
+    color: rgb(0, 0, 0);
+    background-color: tomato;
+}
+
+.HEAD{
+    color: darkblue;
+    font-weight: 700;
+    background-color: rgb(69, 141, 203);
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border:  2px solid black;
+    margin: 2px;
+}
+#fruits{
+     background-color: cadetblue;
+}
+
+.boxstyle {
+    height : 500px;
+    width: 200px;
+    background-color: green;
+    border: 2px dotted black;
+}
+
